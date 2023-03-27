@@ -1,0 +1,16 @@
+{
+  "name": "node-send-email",
+  "version": "1.0.0",
+  "description": "Send email using your email id and password",
+  "main": "mail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@thenamevishnu",
+  "license": "ISC",
+  "keywords": [
+    "node-mailer",
+    "node-send-mail",
+    "node-mail"
+  ]
+}
